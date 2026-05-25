@@ -20,7 +20,7 @@ export default function App() {
           className="relative"
         >
           <h1 className="text-4xl md:text-5xl font-extrabold text-slate-900 tracking-tight mb-2">
-            Gra w Życie Conwaya
+            Gra w życie Conwaya
           </h1>
           <p className="text-slate-500 text-sm md:text-base uppercase tracking-widest font-semibold">
             Automat Komórkowy • Matematyka • Obliczenia
