@@ -1,0 +1,6 @@
+{
+  "name": "Gra w Życie: Prezentacja",
+  "description": "Prezentacja 3 ciekawostek o Grze w Życie Conwaya wraz z interaktywną demonstracją i kodem JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
